@@ -1,9 +1,9 @@
-# Plugins and such
-PLUGINS_DIR="$HOME/dotfile/plugins/"
+# Plugins
+PLUGINS_DIR="$HOME/dotfiles/plugins/"
+source "${PLUGINS_DIR}manunkuy/zshrc.zsh"
 
 # compsys initialization
 autoload -U compinit
 compinit
-source "${PLUGINS_DIR}munakuy/zshrc.zsh"
 
 
