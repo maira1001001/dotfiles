@@ -180,9 +180,9 @@ RPROMPT=$'$(virtualenv_info)$(vcs_info_wrapper)'
 
 #= Segments
 # 
-directory_segment='%F{6} %~'
+directory_segment='%F{197}♀ %~'
 ssh_segment='%F{2}($(whoami)@$(hostname -s))'
-last_command='%(?.%F{6}.%F{red}) ❯ %f'
+last_command='%(?.%F{197}.%F{160}) ❯ %f'
 
 PROMPT="${directory_segment} "
 

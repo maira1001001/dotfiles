@@ -14,5 +14,6 @@ eval "$(rbenv init -)"
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
+#set vim as default editor (use this form tmuxinator gem)
 export EDITOR='vim'
 export VISUAL='vim'
