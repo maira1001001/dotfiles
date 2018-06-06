@@ -17,3 +17,4 @@ eval "$(rbenv init -)"
 #set vim as default editor (use this form tmuxinator gem)
 export EDITOR='vim'
 export VISUAL='vim'
+
