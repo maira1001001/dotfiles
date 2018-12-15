@@ -18,3 +18,6 @@ eval "$(rbenv init -)"
 export EDITOR='vim'
 export VISUAL='vim'
 
+alias f='tmuxinator start finhub'
+alias t='tmux kill-session -t finhub'
+alias be='bundle exec'
