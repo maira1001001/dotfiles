@@ -68,6 +68,9 @@ install_zsh
 print_installation "CURL"
 sudo apt install curl
 
+print_installation "Vim"
+sudo apt install vim
+
 source tmux.sh
 source rbenv.sh
 

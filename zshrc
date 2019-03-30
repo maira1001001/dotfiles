@@ -1,6 +1,6 @@
 # Plugins
 PLUGINS_DIR="$HOME/dotfiles/plugins/"
-source "${PLUGINS_DIR}baila/zshrc.zsh"
+source "${PLUGINS_DIR}maira/zshrc.zsh"
 
 # compsys initialization
 autoload -U compinit
