@@ -10,16 +10,29 @@
 
 ## ordenar instalacion
 centralizar todo en install y definir estructura: raiz, raiz/editor, raiz/otra
+
 1. `build-essencial` intallation
+
 2.`curl` installation
+
 3.`ssh` instalattion
+
 4.`shhkey` public key generation
+
 5.`vim` installation
+
 6`vim` configuration (+ clipboard copy)
+
 7.`zsh` installation
+
 8`zsh` configuration
+
 9.`tmux` installation
+
 10.`tmux` configuration
+
 11.`rbenv`
+
 12.`ruby`
+
 13.`rails`
