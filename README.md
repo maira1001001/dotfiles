@@ -41,6 +41,8 @@ centralizar todo en install y definir estructura: raiz, raiz/editor, raiz/otra
 
 10.`tmux` configuration
 
+  i. put this content (https://github.com/maira1001001/dotfiles/blob/master/tmux.conf) into `tmux.conf`
+
 11.`rbenv`
 
 12.`ruby`
