@@ -35,6 +35,8 @@ centralizar todo en install y definir estructura: raiz, raiz/editor, raiz/otra
    
 8`zsh` configuration
 
+    i. put [this content](https://github.com/maira1001001/dotfiles/blob/master/plugins/baila/zshrc.zsh) into `.zshrc` 
+
 9.`tmux` installation
 
 10.`tmux` configuration
@@ -44,3 +46,5 @@ centralizar todo en install y definir estructura: raiz, raiz/editor, raiz/otra
 12.`ruby`
 
 13.`rails`
+
+14. other tools: `silversearcher-ag`
