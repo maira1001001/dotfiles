@@ -26,14 +26,13 @@ centralizar todo en install y definir estructura: raiz, raiz/editor, raiz/otra
     i. install `sudo apt-get install vim-gtk`
     ii. open vim .vimrc
     iii. add `set clipboard=unnamedplus`
+    iv. clone fedeotaran repository: `https://github.com/fedeotaran/vim-config`
 
 7.`zsh` installation
 
     i. set default shell: `chsh -s (which zsh)`
     ii. tunning the shell: `sudo apt install zsh-lovers zsh-syntax-highlighting` 
-    iii. wget -O .zshrc https://git.grml.org/f/grml-etc-core/etc/zsh/zshrc
-
-
+   
 8`zsh` configuration
 
 9.`tmux` installation
