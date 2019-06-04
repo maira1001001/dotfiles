@@ -17,17 +17,22 @@ centralizar todo en install y definir estructura: raiz, raiz/editor, raiz/otra
 
 3.`ssh` instalattion
 
-4.`shhkey` public key generation
+4.`shh-keygen` public key generation
 
 5.`vim` installation
 
 6`vim` configuration (+ clipboard copy) : 
   
-    i. install sudo apt-get install vim-gtk
+    i. install `sudo apt-get install vim-gtk`
     ii. open vim .vimrc
-    iii. add set clipboard=unnamedplus
+    iii. add `set clipboard=unnamedplus`
 
 7.`zsh` installation
+
+    i. set default shell: `chsh -s (which zsh)`
+    ii. tunning the shell: `sudo apt install zsh-lovers zsh-syntax-highlighting` 
+    iii. wget -O .zshrc https://git.grml.org/f/grml-etc-core/etc/zsh/zshrc
+
 
 8`zsh` configuration
 
