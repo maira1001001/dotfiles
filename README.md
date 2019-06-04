@@ -21,7 +21,11 @@ centralizar todo en install y definir estructura: raiz, raiz/editor, raiz/otra
 
 5.`vim` installation
 
-6`vim` configuration (+ clipboard copy)
+6`vim` configuration (+ clipboard copy) : 
+  
+    i. install sudo apt-get install vim-gtk
+    ii. open vim .vimrc
+    iii. add set clipboard=unnamedplus
 
 7.`zsh` installation
 
