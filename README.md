@@ -36,6 +36,7 @@ centralizar todo en install y definir estructura: raiz, raiz/editor, raiz/otra
 8`zsh` configuration
 
     i. put [this content](https://github.com/maira1001001/dotfiles/blob/master/plugins/baila/zshrc.zsh) into `.zshrc` 
+    ii. oh-y-zsh yto manage plugins
 
 9.`tmux` installation
 
